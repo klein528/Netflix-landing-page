@@ -1,0 +1,90 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #000;
+    color: #999;
+}
+
+h1, h2, h3, h4 {
+    color: white;
+    margin: 0.7rem 0;
+}
+
+p {
+    margin: 0.5rem 0;
+}
+
+img {
+    width: 100%;
+}
+
+.showcase {
+    width: 100%;
+    height: 94vh;
+    position: relative;
+    background: url(/NetflixBg.png) no-repeat center center/cover;
+}
+
+.showcase-top {
+    position: relative;
+    height: 240px;
+}
+
+.showcase-top img {
+    width: 190px;
+    position: absolute;
+    left: 20%;
+}
+
+.showcase-top a {
+    position: absolute;
+    top: 15%;
+    left: 75%;
+    text-decoration: none;
+    color: white;
+    background-color: red;
+    padding: 7px 13px;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.showcase-content {
+    position: relative;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+}
+
+.showcase-content h1 {
+    font-size: 50px;
+}
+
+.showcase-content h2 {
+    font-weight: 100;
+}
+
+.showcase-content h3 {
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.selectBar {
+    position: absolute;
+    top: 15%;
+    left: 67%;
+    padding: 4px 15px;
+    border-radius: 5px;
+    font-size: 17px;
+    background-color: transparent;
+    color: white;
+}
