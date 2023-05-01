@@ -99,7 +99,7 @@ img {
     padding: 4px 15px;
     border-radius: 5px;
     font-size: 17px;
-    background-color: transparent;
+    background-color: rgba(128, 128, 128, 0.176);
     color: white;
 }
 
@@ -107,7 +107,7 @@ img {
     padding: 17px 15px;
     border-radius: 5px;
     border: 1px solid gray;
-    background-color: transparent;
+    background-color: rgba(128, 128, 128, 0.176);
     font-size: 17px;
     color: white;
     width: 400px;
@@ -160,17 +160,11 @@ img {
     color: royalblue;
 }
 
-.scrollContainer img {
-    width: 600px;
-}
-
-.scrollContainer h1 {
-    font-size: 50px;
-}
-
-.scrollContainer p {
-    font-size: 25px;
-    color: white;
+.gap {
+    background-color: rgb(29, 29, 29);
+    width: auto;
+    height: 8px;
+    margin-top: 80px;
 }
 
 .downscroll .scrollContainer {
@@ -178,4 +172,17 @@ img {
     justify-content: center;
     align-items: center;
     column-gap: 20px;
+}
+
+.downscroll img {
+    width: 600px;
+}
+
+.downscroll h1 {
+    font-size: 50px;
+}
+
+.downscroll p {
+    font-size: 25px;
+    color: white;
 }
