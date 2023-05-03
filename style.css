@@ -187,7 +187,6 @@ img {
     color: white;
 }
 
-/*----------------MostQuestions------------*/
 
 .MostQuestions {
     padding: 10px 12%;
@@ -258,4 +257,52 @@ input[type = "radio"] {
 .MostQuestions h3 {
     font-weight: 500;
     font-size: 20px; 
+}
+
+.footer p {
+    color: rgb(176, 169, 169);
+    font-size: 18px;
+    margin-bottom: 35px;
+}
+
+.footer {
+    padding: 50px 15% 10px;
+}
+
+.footer a {
+    color: rgb(176, 169, 169);
+}
+
+.footer .col {
+    flex-basis: 25%;
+    flex-grow: 1;
+    margin-bottom: 20px;
+}
+
+.help {
+    display: flex;
+}
+
+.help .col {
+    display: flex;
+    flex-direction: column;
+}
+
+.col a {
+    color: rgb(176, 169, 169);
+    margin-bottom: 15px;
+    font-size: 14px;
+}
+
+.selectBarBottom {
+    padding: 4px 15px;
+    border-radius: 5px;
+    font-size: 17px;
+    background-color: rgba(128, 128, 128, 0.176);
+    color: white;
+    margin-bottom: 20px;
+}
+
+.smallTag {
+    margin-bottom: 60px;
 }
