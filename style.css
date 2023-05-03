@@ -110,9 +110,9 @@ img {
     background-color: rgba(128, 128, 128, 0.176);
     font-size: 17px;
     color: white;
-    width: 400px;
     font-weight: 550;
     margin-top: 40px;
+    width: 400px;
 }
 
 .emailLogin {
@@ -187,6 +187,10 @@ img {
     color: white;
 }
 
+.downscroll img {
+    width: 30%;
+    height: auto;
+}
 
 .MostQuestions {
     padding: 10px 12%;
