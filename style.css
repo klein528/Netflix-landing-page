@@ -334,39 +334,50 @@ input[type = "radio"] {
 
     .selectBar {
         left: 45%;
-        padding: 2px 10px;
+        padding: 1px 5px;
+        font-size: 15px;
     }
 
     .showcase-top a {
-        padding: 5px 12px;
+        left: 72%;
+        padding: 3px 5px;
+        font-size: 15px;
     }
 
     .showcase-content h1 {
-        font-size: 30px;
-    }
-
-    .showcase-content h2 {
         font-size: 20px;
     }
 
+    .showcase-content h2 {
+        font-size: 12px;
+    }
+
     .showcase-content h3 {
-        font-size: 17px;
+        font-size: 11px;
     }
 
     .emailBar input {
+        font-size: 12px;
+        width: 300px;
+        padding: 15px;
         margin-bottom: 20px;
     }
 
     .emailLogin {
         padding: 10px 20px;
-        font-size: 18px;
+        font-size: 15px;
     }
 
     .info-bar {
-        padding: 40px 0;
+        font-size: 12px;
+        padding: 30px 0;
         margin: 0 25px;
         border-radius: 5px;
         background: linear-gradient(to right, royalblue, rgb(124, 18, 48), royalblue);
+    }
+
+    .info-bar h3 {
+        font-size: 15px;
     }
 
     .info-bar img {
@@ -374,8 +385,8 @@ input[type = "radio"] {
         top: 70%;
         left: 10%;
         z-index: 1;
-        width: 80px;
-        height: 80px;
+        width: 70px;
+        height: 70px;
     }
 
     .downscroll .scrollContainer {
@@ -386,19 +397,27 @@ input[type = "radio"] {
     }
 
     .downscroll .apple-img {
-        width: 500px;
+        width: 360px;
+    }
+
+    .scrollContainer2 .media-h1 {
+        font-size: 25px;
+    }
+
+    .scrollContainer2 .media-p {
+        font-size: 12px;
     }
 
     .downscroll img {
-        width: 530px;
+        width: 400px;
     }
 
     .scrollContainer h1 {
-        font-size: 30px;
+        font-size: 25px;
     }
 
     .scrollContainer p {
-        font-size: 18px;
+        font-size: 15px;
     }
 
     .downscroll #media img {
