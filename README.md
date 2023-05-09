@@ -1,3 +1,5 @@
+![Screenshot from 2023-05-09 13-05-45](https://github.com/klein528/Netflix-landing-page/assets/88459146/fd316a75-6653-4e47-ae21-51d807a54cc5)
+
 <h1>Installation</h1>
 <p>You need to have git installed in your local mashine to use this type of installation.</p>
 
