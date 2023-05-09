@@ -6,7 +6,9 @@
 <p>Clone the repository by: git clone https://github.com/klein528/Etch-A-Sketch.git</p>
 
 <h1>Usage</h1>
-<p>1. There is no special usage for this project, it works almost exacly like the original Netflix website.</p>
+<p>There is no special usage for this project, it works almost exacly like the original Netflix website.</p>
+
+<p>I did this project only to sharpen my coding skills even more and im going to do more of them in the future.</p>
 
 <h1>Contribution</h1>
 <p>This repository is open to contribute. Please be free to copy my code or share any kind of new ideas for my project.</p>
